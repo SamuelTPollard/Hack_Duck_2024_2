@@ -9,6 +9,8 @@ public class ShieldFaceNavigation : MonoBehaviour
     public Camera playCam;
     private NavMeshAgent agent;
     public bool seen = false;
+    float speed;
+    int collectables = 0;
 
     void Start()
     {
@@ -31,4 +33,8 @@ public class ShieldFaceNavigation : MonoBehaviour
         }
     }
 
+    void IncreaseSpeed()
+    {
+        speed = collectables * 2;
+    }
 }
