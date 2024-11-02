@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\[Code]\\Repos\\Hack_Duck_2024_2\\",
+  "WorkspaceRootPath": "C:\\Silent_Goon\\HackADuck24\\NTU_Spook\\Hack_Duck_2024_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FCF9F2F-B7E6-976E-96C9-43A89EF0CDBD}|Assembly-CSharp.csproj|e:\\[code]\\repos\\hack_duck_2024_2\\assets\\scripts\\shieldfacenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FCF9F2F-B7E6-976E-96C9-43A89EF0CDBD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shieldfacenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FCF9F2F-B7E6-976E-96C9-43A89EF0CDBD}|Assembly-CSharp.csproj|e:\\[code]\\repos\\hack_duck_2024_2\\assets\\scripts\\phonefacenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FCF9F2F-B7E6-976E-96C9-43A89EF0CDBD}|Assembly-CSharp.csproj|C:\\Silent_Goon\\HackADuck24\\NTU_Spook\\Hack_Duck_2024_2\\assets\\scripts\\phonefacenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FCF9F2F-B7E6-976E-96C9-43A89EF0CDBD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\phonefacenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FCF9F2F-B7E6-976E-96C9-43A89EF0CDBD}|Assembly-CSharp.csproj|E:\\[Code]\\Repos\\Hack_Duck_2024_2\\assets\\scripts\\player_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FCF9F2F-B7E6-976E-96C9-43A89EF0CDBD}|Assembly-CSharp.csproj|C:\\Silent_Goon\\HackADuck24\\NTU_Spook\\Hack_Duck_2024_2\\assets\\scripts\\player_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FCF9F2F-B7E6-976E-96C9-43A89EF0CDBD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCF9F2F-B7E6-976E-96C9-43A89EF0CDBD}|Assembly-CSharp.csproj|c:\\silent_goon\\hackaduck24\\ntu_spook\\hack_duck_2024_2\\assets\\scripts\\shieldfacenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCF9F2F-B7E6-976E-96C9-43A89EF0CDBD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shieldfacenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PhoneFaceNavigation.cs",
-              "DocumentMoniker": "E:\\[Code]\\Repos\\Hack_Duck_2024_2\\Assets\\Scripts\\PhoneFaceNavigation.cs",
+              "DocumentMoniker": "C:\\Silent_Goon\\HackADuck24\\NTU_Spook\\Hack_Duck_2024_2\\Assets\\Scripts\\PhoneFaceNavigation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PhoneFaceNavigation.cs",
-              "ToolTip": "E:\\[Code]\\Repos\\Hack_Duck_2024_2\\Assets\\Scripts\\PhoneFaceNavigation.cs",
+              "ToolTip": "C:\\Silent_Goon\\HackADuck24\\NTU_Spook\\Hack_Duck_2024_2\\Assets\\Scripts\\PhoneFaceNavigation.cs",
               "RelativeToolTip": "Assets\\Scripts\\PhoneFaceNavigation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T10:27:14.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ShieldFaceNavigation.cs",
-              "DocumentMoniker": "E:\\[Code]\\Repos\\Hack_Duck_2024_2\\Assets\\Scripts\\ShieldFaceNavigation.cs",
+              "DocumentMoniker": "C:\\Silent_Goon\\HackADuck24\\NTU_Spook\\Hack_Duck_2024_2\\Assets\\Scripts\\ShieldFaceNavigation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShieldFaceNavigation.cs",
-              "ToolTip": "E:\\[Code]\\Repos\\Hack_Duck_2024_2\\Assets\\Scripts\\ShieldFaceNavigation.cs",
+              "ToolTip": "C:\\Silent_Goon\\HackADuck24\\NTU_Spook\\Hack_Duck_2024_2\\Assets\\Scripts\\ShieldFaceNavigation.cs",
               "RelativeToolTip": "Assets\\Scripts\\ShieldFaceNavigation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T10:20:58.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Player_Camera.cs",
-              "DocumentMoniker": "E:\\[Code]\\Repos\\Hack_Duck_2024_2\\Assets\\Scripts\\Player_Camera.cs",
+              "DocumentMoniker": "C:\\Silent_Goon\\HackADuck24\\NTU_Spook\\Hack_Duck_2024_2\\Assets\\Scripts\\Player_Camera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player_Camera.cs",
-              "ToolTip": "E:\\[Code]\\Repos\\Hack_Duck_2024_2\\Assets\\Scripts\\Player_Camera.cs",
+              "ToolTip": "C:\\Silent_Goon\\HackADuck24\\NTU_Spook\\Hack_Duck_2024_2\\Assets\\Scripts\\Player_Camera.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player_Camera.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T00:38:12.716Z"
+              "WhenOpened": "2024-11-02T00:38:12.716Z",
+              "EditorCaption": ""
             }
           ]
         }

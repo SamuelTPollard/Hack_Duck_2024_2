@@ -6,16 +6,29 @@ using UnityEngine.AI;
 public class ShieldFaceNavigation : MonoBehaviour
 {
     public Transform player;
+    public Camera playCam;
     private NavMeshAgent agent;
-    // Start is called before the first frame update
+    public bool seen = false;
+
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        agent.destination = player.position;
+        Plane[] planes = GeometryUtility.CalculateFrustumPlanes(playCam);
+
+        if (GeometryUtility.TestPlanesAABB(planes, this.gameObject.GetComponent<Renderer>().bounds))
+        {
+            agent.speed = 0;
+            agent.SetDestination(transform.position);
+        }
+        else
+        {
+            agent.speed = 6;
+            agent.SetDestination(player.position);
+        }
     }
+
 }

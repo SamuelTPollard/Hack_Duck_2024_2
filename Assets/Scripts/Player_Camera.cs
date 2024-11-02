@@ -1,10 +1,12 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.HID;
 
 public class Player_Camera : MonoBehaviour
 {
     Mouse mouse;
     public float hsens, vsens;
+    int enemy;
     Quaternion a;
     void Start()
     {
@@ -17,5 +19,6 @@ public class Player_Camera : MonoBehaviour
         a = transform.rotation;
         a.eulerAngles = new Vector3(a.eulerAngles.x, a.eulerAngles.y, 0);
         transform.rotation = a;
+
     }
 }
