@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Silent_Goon\\HackADuck24\\NTU_Spook\\Hack_Duck_2024_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCF9F2F-B7E6-976E-96C9-43A89EF0CDBD}|Assembly-CSharp.csproj|c:\\silent_goon\\hackaduck24\\ntu_spook\\hack_duck_2024_2\\assets\\scripts\\player_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCF9F2F-B7E6-976E-96C9-43A89EF0CDBD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player_Camera.cs",
+              "DocumentMoniker": "C:\\Silent_Goon\\HackADuck24\\NTU_Spook\\Hack_Duck_2024_2\\Assets\\Scripts\\Player_Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player_Camera.cs",
+              "ToolTip": "C:\\Silent_Goon\\HackADuck24\\NTU_Spook\\Hack_Duck_2024_2\\Assets\\Scripts\\Player_Camera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player_Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:38:12.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
